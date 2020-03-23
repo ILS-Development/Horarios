@@ -1,7 +1,7 @@
 # Horarios
 
 # PROYECTO HORARISO ILS XXI
-¡Bienvenidos a la *Página Web Biosalud* !
+¡Bienvenidos a la Página del Proyecto *Horarios* !
 Este proyecto de desarrollo de ILS XXI es para generar horarios academicos y fue desarrollado usando [Netbeans](https://netbeans.org/) version 11.1.
 
 ![picture](https://github.com/ILS-Development/Horarios/blob/master/web/Imagen/LogoHorario.png)
