@@ -1,6 +1,6 @@
 # Horarios
 
-# PROYECTO HORARISO ILS XXI
+# PROYECTO HORARIOS ILS XXI
 ¡Bienvenidos a la Página del Proyecto *Horarios* !
 Este proyecto de desarrollo de ILS XXI es para generar horarios academicos y fue desarrollado usando [Netbeans](https://netbeans.org/) version 11.1.
 
@@ -34,5 +34,32 @@ menu team -> Remote -> Push
 
 menu team -> Remote -> Pull
 
-##4) Construir Aplicación
+##4) Pruebas de Testing
 
+### Pruebas Unitarias:
+
+##5) Versión
+
+### Versión alpha: en construcción
+
+
+##6) Autores:
+
+###Docentes:
+
+* Franklin Cruz 
+* Santillana
+
+###Alumnos:
+
+* Ivan
+* Walter
+* Eddy
+
+##6) Licencia:
+
+Licencia GNU GPL
+
+##6) Agradecimientos:
+
+A docentes y alumnos de ILS XXI
